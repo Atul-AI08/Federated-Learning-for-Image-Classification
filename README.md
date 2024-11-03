@@ -65,3 +65,6 @@ python federated.py --dataset tumor --n_parties 10 --comm_round 10
 ```
 
 Replace `tumor` with `covid` to use the COVID-19 dataset. Adjust `--n_parties` and `--comm_round` to set the number of clients and communication rounds, respectively.
+
+### Related Projects
+For a similar implementation of federated learning applied to Sentiment Analysis, please refer to [this repository](https://github.com/Atul-AI08/Federated-Learning-for-NLP-Tasks).
